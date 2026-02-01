@@ -5,13 +5,7 @@ import {
   Trophy, RotateCcw, Home
 } from 'lucide-react';
 
-/**
- * MEMORY LAB 
- * UPDATED: Added interactive hover glow, scaling, and scanline animations for cards.
- * RESTORED: Difficulty levels (Easy, Medium, Hard) for AI mode.
- * FIXED: Navigation moved to the top scoreboard area.
- * GRID: 4x4, 6x6, 8x8 options.
- */
+
 
 const EMOJIS = [
   '🚀', '🎨', '🧩', '🎮', '🌈', '🍦', '🍕', '🎸', '🎷', '🎹', '🦄', '👻', '💎', '🔥',
